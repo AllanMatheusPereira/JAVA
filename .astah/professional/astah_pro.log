@@ -1,0 +1,81 @@
+===========================================================
+astah_pro.log
+date: 12 December 2022 21:43:29 BRT
+ver: Professional 8.5.0 / 39c620
+java ver: 1.8.0_322
+java vendor: Temurin
+os name: Windows 10
+os ver: 10.0
+look and feel: Windows
+system scale: 108,33%
+===========================================================
+----------------------------------------------------------
+                   System Properties                      
+----------------------------------------------------------
+
+java.runtime.name=OpenJDK Runtime Environment
+sun.boot.library.path=D:\astah-professional\jre\bin
+java.vm.version=25.322-b06
+sun.java2d.d3d=false
+java.vm.vendor=Temurin
+java.vendor.url=https://adoptium.net/
+path.separator=;
+java.vm.name=OpenJDK 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.country=BR
+user.script=
+sun.java.launcher=SUN_STANDARD
+sun.os.patch.level=
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=D:\astah-professional
+java.runtime.version=1.8.0_322-b06
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=D:\astah-professional\jre\lib\endorsed
+os.arch=amd64
+java.io.tmpdir=C:\Users\allan\AppData\Local\Temp\
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+user.variant=
+os.name=Windows 10
+sun.jnu.encoding=Cp1252
+java.library.path=lib\rlm
+sun.awt.enableExtraMouseButtons=true
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+os.version=10.0
+user.home=C:\Users\allan
+user.timezone=America/Sao_Paulo
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=Cp1252
+java.specification.version=1.8
+java.class.path=D:\astah-professional\astah-pro.jar
+user.name=allan
+java.vm.specification.version=1.8
+sun.java.command=D:\astah-professional\astah-pro.jar C:\Users\allan\OneDrive\Área de Trabalho\Class Diagram0.asta
+java.home=D:\astah-professional\jre
+sun.arch.data.model=64
+user.language=pt
+java.specification.vendor=Oracle Corporation
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+astah.plugin.enabled=true
+java.version=1.8.0_322
+java.ext.dirs=D:\astah-professional\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+sun.boot.class.path=D:\astah-professional\jre\lib\resources.jar;D:\astah-professional\jre\lib\rt.jar;D:\astah-professional\jre\lib\sunrsasign.jar;D:\astah-professional\jre\lib\jsse.jar;D:\astah-professional\jre\lib\jce.jar;D:\astah-professional\jre\lib\charsets.jar;D:\astah-professional\jre\lib\jfr.jar;D:\astah-professional\jre\classes
+java.vendor=Temurin
+astah.edition=professional
+file.separator=\
+java.vendor.url.bug=https://github.com/adoptium/adoptium-support/issues
+sun.io.unicode.encoding=UnicodeLittle
+sun.cpu.endian=little
+sun.desktop=windows
+sun.cpu.isalist=amd64
+
+----------------------------------------------------------
+                   Plugin Infos                      
+----------------------------------------------------------
+
+org.apache.felix.framework (4.0.3) "System Bundle" [] [ACTIVE:Enable]
+com.change_vision.astah.extension.plugin.script (2.0.1) "Script Plugin" [7.2 - pro,uml] [ACTIVE:Enable]
